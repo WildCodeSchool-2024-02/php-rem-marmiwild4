@@ -1,0 +1,17 @@
+{
+    "name": "vincent/workshop-php-mvc-4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vincentr-wcs",
+            "email": "vincent.ravanel@wildcodeschool.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.8"
+    }
+}
